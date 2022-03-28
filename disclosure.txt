@@ -12,7 +12,6 @@ a. The domain rights of "Digital Point" are not exploited.
 b. This disclosure is shared on every copy of the project. 
 
 
-
 This project is provided as it is, without any guarantee or warantee.
 We do not hold any liability for upgradation of the same.
 
