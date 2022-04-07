@@ -1,22 +1,24 @@
-The usage, sharing and publishing rights of "Digital Point" are solely held by
-the owner of the company, and the contributers do not claim any rights whatsoever
-on the domain.
-
-The contributers have collected the necessary sharing rights from the owner to
-publish it on the website.
-
-We the contributers hereby allow the usage of source code of this project for
-informative and educative purposes only, as long as : 
-
-a. The domain rights of "Digital Point" are not exploited. 
-b. This disclosure is shared on every copy of the project. 
 
 
-This project is provided as it is, without any guarantee or warantee.
-We do not hold any liability for upgradation of the same.
+        The usage, sharing and publishing rights of "Digital Point" are solely held by
+        the owner of the company, and the contributers do not claim any rights whatsoever
+        on the domain.
+
+        The contributers have collected the necessary sharing rights from the owner to
+        publish it on the website.
+
+        We the contributers hereby allow the usage of source code of this project for
+        informative and educative purposes only, as long as : 
+
+        a. The domain rights of "Digital Point" are not exploited. 
+        b. This disclosure is shared on every copy of the project. 
 
 
-Contributers :
+        This project is provided as it is, without any guarantee or warantee.
+        We do not hold any liability for upgradation of the same.
 
-Abhishek Nishad - abhishek.nishad.1069@gmail.com
-Anshu Saxena - theashknight16@gmail.com
+
+        Contributers :
+
+        Abhishek Nishad - abhishek.nishad.1069@gmail.com
+        Anshu Saxena - theashknight16@gmail.com
